@@ -11,3 +11,12 @@
 </body>
 </html>
 
+{{-- 
+    
+composer create-project --prefer-dist laravel/laravel:^7.0 .
+
+php artisan serve
+
+php -S localhost:8000 -t public 
+
+--}}
